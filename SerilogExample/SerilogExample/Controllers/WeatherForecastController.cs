@@ -26,6 +26,17 @@ namespace SerilogExample.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            _logger.LogWarning("THIS IS AN CUSTOM INFORMATION");
+
+            try
+            {
+                throw new NotImplementedException();
+            }
+            catch (NotImplementedException ex)
+            {
+                _logger.LogWarning(ex, ex.Message);                
+            }
+
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

@@ -39,7 +39,6 @@ D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\scopedcss\bundle\SerilogExample.styles.css
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\staticwebassets\SerilogExample.StaticWebAssets.Manifest.cache
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\SerilogExample.RazorTargetAssemblyInfo.cache
-D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\SerilogExample.csproj.CopyComplete
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\SerilogExample.dll
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\ref\SerilogExample.dll
 D:\C# - Work\Serilog-SavingLogsSQLServer\SerilogExample\SerilogExample\obj\Debug\net5.0\SerilogExample.pdb
